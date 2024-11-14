@@ -7,3 +7,5 @@ export default function createRunScene(runScene: SceneData) {
 
   runScene.scene.onAfterRenderObservable.add(() => {});
 }
+
+
